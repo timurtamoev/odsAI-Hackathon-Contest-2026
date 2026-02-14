@@ -1,5 +1,6 @@
 {
 "meta":{"test_sets":["test"],"test_metrics":[{"best_value":"Max","name":"NDCG:top=20;type=Base"},{"best_value":"Max","name":"NDCG:type=Base"}],"learn_metrics":[],"launch_mode":"Train","parameters":"","iteration_count":200,"learn_sets":["learn"],"name":"experiment"},
 "iterations":[
-{"iteration":0,"passed_time":0.1854238009,"remaining_time":36.89933637,"test":[0.8836546705,0.8941246405]}
+{"iteration":0,"passed_time":0.2569388336,"remaining_time":51.13082788,"test":[0.9349557776,0.9472369374]},
+{"iteration":100,"passed_time":19.78977493,"remaining_time":19.3978982,"test":[0.9741004952,0.9764561509]}
 ]}
